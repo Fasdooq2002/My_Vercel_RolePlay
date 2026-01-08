@@ -6,6 +6,16 @@
 
 A high-fidelity, dark-themed roleplay platform designed for immersive character interactions with advanced context management and uncensored model integration.
 
+## Recent Updates
+
+The interface has been redesigned with inspiration from JanitorAI, featuring:
+- Modern grid-based character card layout
+- Immersive card design with character portraits and gradient overlays
+- Responsive design optimized for both desktop and mobile
+- Enhanced intimate and alluring visual atmosphere
+- Smooth hover effects and transitions
+- Streamlined navigation and chat interface
+
 ## Deploy to Vercel
 
 [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
